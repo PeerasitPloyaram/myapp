@@ -1,6 +1,6 @@
 package myapp;
 
 public class Z {
-    float data;
-    float i;
+    String name;
+    int total;
 }
